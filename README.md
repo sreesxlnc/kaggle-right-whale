@@ -1,11 +1,5 @@
 # kaggle-right-whale
 
-2nd place solution to the [Kaggle Right Whale](https://www.kaggle.com/c/noaa-right-whale-recognition) challenge.
-
-You should see [my blog post](http://felixlaumon.github.io/2015/01/08/kaggle-right-whale.html) for detailed description of my approach.
-
-![](http://felixlaumon.github.io/assets/kaggle-right-whale/aligner_localization_approach.png)
-
 ## Requirements
 
 - Anaconda Python Distribution (any version should work but I used conda 3.19.0)
